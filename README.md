@@ -1,42 +1,26 @@
-<h2> Hey there! I'm Reno Angelo.</h2>
+### Hi there 👋, I'm Reno Angelo
+#### Application Development, Ethical Hacking and Python Boring Automation Scripts
+I'm Reno Angelo Banderlipe from the Philippines, I'm currently a student at Don Mariano Marcos Memorial State University studying Information Technology. I like automating boring stuff using Python creating scripts, I like breaking systems, finding vulnerabilities, creating scripts,nd learning new technologies, building Mobile Applications in Android, and currently exploring the world of Artificial Intelligence, Machine Learning, Deep Learning, Big Data, and Cyber-security. Ethical Hacking and Bug Bounty Hunting gives lot of interest to me.
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+- 🔭 I’m currently working on On improving my portfolio and also building my website. 
+- 🌱 I’m currently learning Dart, Flutter Framework, Firebase, PHP, System Administration. 
+- 👯 I’m looking to collaborate on Open Source Projects. 
+- 💬 Ask me about You can ask me ... Anything . 
+- 😄 Pronouns: He/Him. 
+- ⚡ Fun fact: I'm a Introvert😄 
 
 
-- 🌱 &nbsp;: Currently learning things that give me interest (Ethical Hacking, Bug Bounty, Application Development and Building boring stuff / scripts). .
-- ✍️ &nbsp;: Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-- &nbsp;⚡ Fun fact about Me : I love being alone, in touch with the outside world- ✍ You can find my projects here 
-
-- ✍ Website Brewing...
-- 🎓 Currently studying Information Technology at Don Mariano Marcos Memorial State University.
-- 🔭 I’m currently working my portfolio (website).
-- 🌱 I’m currently learning Flutter Framework, Firebase, Analytics, System Administration, Ethical Hacking ... 
-- 💬 Ping me on my socials, links down below 😄 
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love Cycling, building weird python scipts do automate boring stuffs, nature and sleeping 😄.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://www.github.com/peanu77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/0x7065616e7574)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/__pe4nu7__//)  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333  333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
+- 💻 Programming Languages&nbsp;
+  - Python, Dart, Javascript, PHP, HTML, C, Java 
+- 💻 Frameworks
+  - Flutter, Django
+- 🛢 Database &nbsp;
+  - Firebase (NoSQL),MYSQL
+- 🔧 Tools & Code Editors nbsp;
+  - Visual Studio Code, Vim
 
 [![peanu77's GitHub stats](https://github-readme-stats.vercel.app/api?username=peanu77)](https://github.com/peanu77/github-readme-stats)
