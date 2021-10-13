@@ -37,3 +37,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+
+
+[![peanu77's GitHub stats](https://github-readme-stats.vercel.app/api?username=peanu77)](https://github.com/peanu77/github-readme-stats)
