@@ -24,4 +24,4 @@ I'm Reno Angelo Banderlipe from the Philippines, I'm currently a student at Don 
   - Visual Studio Code, Vim
 
 [![peanu77's GitHub stats](https://github-readme-stats.vercel.app/api?username=peanu77)](https://github.com/peanu77/github-readme-stats)
-[![Most Used Language ](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia)
+[![Most Used Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia)
