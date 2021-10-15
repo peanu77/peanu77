@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Reno Angelo
-#### Application Development, Ethical Hacking and Python Boring Automation Scripts
+#### Application Development, Ethical Hacking ... 
 I'm Reno Angelo Banderlipe from the Philippines, I'm currently a student at Don Mariano Marcos Memorial State University studying Information Technology. I like automating boring stuff using Python creating scripts, I like breaking systems, finding vulnerabilities, creating scripts,nd learning new technologies, building Mobile Applications in Android, and currently exploring the world of Artificial Intelligence, Machine Learning, Deep Learning, Big Data, and Cyber-security. Ethical Hacking and Bug Bounty Hunting gives lot of interest to me.
 
 - 🔭 I’m currently working on improving my portfolio and also building my website. 
