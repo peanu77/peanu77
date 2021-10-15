@@ -14,13 +14,13 @@ I'm Reno Angelo Banderlipe from the Philippines, I'm currently a student at Don 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 Programming Languages&nbsp;
+- 💻 Programming Languages
   - Python, Dart, Javascript, PHP, HTML, C, Java 
 - 💻 Frameworks
   - Flutter, Django
-- 🛢 Database &nbsp;
+- 🛢 Database
   - Firebase (NoSQL),MYSQL
-- 🔧 Tools & Code Editors nbsp;
+- 🔧 Tools & Code Editors
   - Visual Studio Code, Vim
 
 ![peanu77's GitHub stats](https://github-readme-stats.vercel.app/api?username=peanu77) &emsp; &emsp; &emsp; ![Most Used Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia)
