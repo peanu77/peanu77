@@ -5,7 +5,7 @@ Grettings!
 - 🔭 I’m currently working on improving my portfolio and also building my website. 
 - 🌱 I’m currently learning Dart, Flutter Framework, Firebase, PHP, System Administration. 
 - 👯 I’m looking to collaborate on Open Source Projects. 
-- 💬 Ask me about You can ask me ... Anything . 
+- 💬 Ask me ... Anything . 
 - 😄 Pronouns: He/Him. 
 - ⚡ Fun fact: I'm a Introvert😄 
 
